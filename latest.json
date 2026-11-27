@@ -1,6 +1,6 @@
 {
-  "build": 7,
-  "name": "Car Dash 1.5.1",
-  "notes": "Trip info (km, time and fuel since engine start) moved to the top right, next to the car.",
+  "build": 8,
+  "name": "Car Dash 1.6",
+  "notes": "New layout: speed bottom left on the car, fuel now + average top right, km and time since start next to the car. Spin the car by dragging anywhere on its panel. Roadside posts and trees while driving. Volume goes to 100% when connected to the car (switch in Settings).",
   "apk": "CarDash.apk"
 }
