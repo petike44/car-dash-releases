@@ -1,6 +1,6 @@
 {
-  "build": 6,
-  "name": "Car Dash 1.5",
-  "notes": "Trip since engine start on the main screen: distance, time, average and current fuel use (estimated). Trip card in Car Info. Outside temperature under the clock. Fuel estimate correction in Settings.",
+  "build": 7,
+  "name": "Car Dash 1.5.1",
+  "notes": "Trip info (km, time and fuel since engine start) moved to the top right, next to the car.",
   "apk": "CarDash.apk"
 }
