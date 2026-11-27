@@ -1,6 +1,6 @@
 {
-  "build": 9,
-  "name": "Car Dash 1.7",
-  "notes": "Split screen: open Waze/Maps/Spotify next to Car Dash. Every drive is saved (km, time, liters, cost in lei) with a summary when you turn the car off. Trips screen + CSV copy in Download/CarDash.",
+  "build": 10,
+  "name": "Car Dash 1.7.1",
+  "notes": "Split screen: open Waze/Maps/Spotify next to Car Dash. Every drive is saved (km, time, liters, cost in lei) with a summary when you turn the car off. Trips screen + CSV copy in Download/CarDash. Diesel price default 10 lei/L.",
   "apk": "CarDash.apk"
 }
