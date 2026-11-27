@@ -1,6 +1,6 @@
 {
-  "build": 8,
-  "name": "Car Dash 1.6",
-  "notes": "New layout: speed bottom left on the car, fuel now + average top right, km and time since start next to the car. Spin the car by dragging anywhere on its panel. Roadside posts and trees while driving. Volume goes to 100% when connected to the car (switch in Settings).",
+  "build": 9,
+  "name": "Car Dash 1.7",
+  "notes": "Split screen: open Waze/Maps/Spotify next to Car Dash. Every drive is saved (km, time, liters, cost in lei) with a summary when you turn the car off. Trips screen + CSV copy in Download/CarDash.",
   "apk": "CarDash.apk"
 }
